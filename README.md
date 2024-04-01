@@ -1,4 +1,4 @@
-This project provides examples on how to use Terraform and Azure DevOps to create standard Logic App to a storage account with private network.
+This project provides examples on how to use Terraform and Azure DevOps to create standard Logic App to a storage account within private network.
 Here are the resources that will be created in the deployment:
   1. VNET and subnets for Logic App and storage account
   2. Storage account and fileshare
